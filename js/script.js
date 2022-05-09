@@ -311,8 +311,7 @@ $(document).ready(function () {
                 <span class="health-box-cate">${cate}</span>
                 <span class="health-box-tit">${title}</span>
             </a>
-        </div>
-        ;`
+        </div>`;
         // let temp_html = '<div class="health-box" data-aos="fade-up" data-aos-duration="800">';
         // // a태그 생성
         // temp_html += '<a href=';
