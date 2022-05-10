@@ -90,7 +90,7 @@ body {
     border-radius: 18px;
     overflow: hidden;
     text-align: center;
-    padding: 20px;
+    padding: 20px 100px;
 }
 
 .modal-wrap img {
@@ -151,7 +151,6 @@ body {
     font-weight: 600;
 }
 
-
 .modal-close {
     position: relative;
     display: inline-block;
@@ -166,7 +165,6 @@ body {
     z-index: 1;
     cursor: pointer;
 }
-
 
 
 /* pnuh 네트워크 */
