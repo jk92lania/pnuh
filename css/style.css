@@ -167,6 +167,21 @@ body {
 }
 
 
+@media all and (max-width: 1000px) {
+    .modal-wrap {
+        width: 100%;
+        padding: 20px 20px;
+    }    
+}
+@media all and (max-width: 480px) {
+    
+    .modal-desc {
+        font-size: 12px;
+        line-height: 15px;
+    }   
+}
+
+
 /* pnuh 네트워크 */
 .pnuh-popup {
     position: fixed;
